@@ -15,3 +15,5 @@ Lokaverkefni í GSF2 hjá mér og Kormáki Atla
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Spurningar frá 21 til 23 komnar inn frá Guðmundi.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Spurningar frá 24 til 28 komnar inn frá Kormákur.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Spurningar frá 29 til32 komnar inn frá Guðmundi.
